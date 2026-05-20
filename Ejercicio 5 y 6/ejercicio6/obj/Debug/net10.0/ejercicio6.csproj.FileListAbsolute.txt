@@ -1,0 +1,14 @@
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/bin/Debug/net10.0/ejercicio6
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/bin/Debug/net10.0/ejercicio6.deps.json
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/bin/Debug/net10.0/ejercicio6.runtimeconfig.json
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/bin/Debug/net10.0/ejercicio6.dll
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/bin/Debug/net10.0/ejercicio6.pdb
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.AssemblyInfoInputs.cache
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.AssemblyInfo.cs
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.csproj.CoreCompileInputs.cache
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.dll
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/refint/ejercicio6.dll
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.pdb
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ejercicio6.genruntimeconfig.cache
+/media/elpaiba/para juegos/RiderProjects/Ejercicio5/ejercicio6/obj/Debug/net10.0/ref/ejercicio6.dll
